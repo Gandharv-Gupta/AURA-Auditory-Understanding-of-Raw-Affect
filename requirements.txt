@@ -1,0 +1,13 @@
+hume
+python-dotenv
+aiofiles
+fastapi
+uvicorn
+pydantic
+jinja2
+aiohttp
+sounddevice
+scipy
+
+python-multipart
+supabase
